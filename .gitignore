@@ -48,3 +48,4 @@ __MACOSX/10_food_classes_all_data/train/._pizza
 __MACOSX/10_food_classes_all_data/train/._ramen
 __MACOSX/10_food_classes_all_data/train/._steak
 __MACOSX/10_food_classes_all_data/train/._sushi
+*.zip
