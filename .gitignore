@@ -49,3 +49,6 @@ __MACOSX/10_food_classes_all_data/train/._ramen
 __MACOSX/10_food_classes_all_data/train/._steak
 __MACOSX/10_food_classes_all_data/train/._sushi
 *.zip
+NLP/sample_submission.csv
+NLP/test.csv
+NLP/train.csv
