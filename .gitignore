@@ -52,3 +52,10 @@ __MACOSX/10_food_classes_all_data/train/._sushi
 NLP/sample_submission.csv
 NLP/test.csv
 NLP/train.csv
+NLP/model_6/.DS_Store
+NLP/model_6/fingerprint.pb
+NLP/model_6/keras_metadata.pb
+NLP/model_6/model_6.h5
+NLP/model_6/saved_model.pb
+NLP/model_6/variables/variables.data-00000-of-00001
+NLP/model_6/variables/variables.index
